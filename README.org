@@ -1,0 +1,9 @@
+* 编程环境配置(MacOS)
+** Alacritty
+   整合的配置参考: 
+   - https://qiita.com/___xxx_/items/1f7ec430eb7bded4dc97
+** Tmux
+   - 克隆此仓库: 
+     #+begin_src sh
+       git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+     #+end_src
