@@ -88,9 +88,15 @@ mouse:
   
   hide_when_typing: false
   
-  url:
-    launcher: open
-    modifiers: None
+  # url:
+  #   launcher: open
+  #   modifiers: None
+
+# hints:
+#     enabled:
+#         mouse:
+#             enabled: true
+#             mods: Control
     
 selection:
   semantic_escape_chars: ",│`|:\"' ()[]{}<>\t"
